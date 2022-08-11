@@ -14,6 +14,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{536631B9-58A8-4B86-894D-5F8920822659}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{F847F671-5612-4F0B-AEF1-13961D86747F}"
+	ProjectSection(SolutionItems) = preProject
+		ProjectPortInformations.txt = ProjectPortInformations.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{AF2673FF-30CE-480E-8B83-1274C83287CE}"
 EndProject
