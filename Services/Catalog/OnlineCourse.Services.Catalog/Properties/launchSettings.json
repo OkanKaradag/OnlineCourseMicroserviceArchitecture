@@ -19,7 +19,7 @@
     },
     "OnlineCourse.Services.Catalog": {
       "commandName": "Project",
-      "dotnetRunMessages": "true",
+      "dotnetRunMessages": true,
       "launchBrowser": false,
       "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5011",

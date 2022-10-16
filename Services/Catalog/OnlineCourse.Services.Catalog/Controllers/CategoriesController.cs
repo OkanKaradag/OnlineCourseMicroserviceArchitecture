@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using OnlineCourse.Services.Catalog.Dtos;
 using OnlineCourse.Services.Catalog.Services;
 using OnlineCourse.Shared.BaseClasses;
